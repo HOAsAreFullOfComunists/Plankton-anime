@@ -5,9 +5,12 @@ Ja, die nintendo zone war da originale konzept dass ich auch im sub-reddit gepos
 # Und wie kann ich die mod benutzen?
 ## Du brauchst: 
 <p>einen gemoddeten 3DS/2DS (Hier steht wie das geht, super easy: https://3ds.hacks.guide/ )<br>Internet (duh)<br>und die dateien</p>
+
+## Die schritte:
+
 1. Den "luma" Ordner extrahieren und in die SD-Karte packen
 
-## Nur beim ersten mal notwendig
+### Nur beim ersten mal notwendig
 
 <p>2a. Select während des startens gedrückt halten<br>2b. Sicherstellen dass "enable game patching" und "enable loading external firms and modules" aktiviert sind<br>2c. Start zum speichern drücken</p>
 
