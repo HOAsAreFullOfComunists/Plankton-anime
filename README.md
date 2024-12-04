@@ -10,7 +10,7 @@ Ja, die nintendo zone war da originale konzept dass ich auch im sub-reddit gepos
 
 1. Den "luma" Ordner extrahieren und in die SD-Karte packen
 
-### Nur beim ersten mal notwendig
+#### Nur beim ersten mal notwendig
 
 <p>2a. Select während des startens gedrückt halten<br>2b. Sicherstellen dass "enable game patching" und "enable loading external firms and modules" aktiviert sind<br>2c. Start zum speichern drücken</p>
 
