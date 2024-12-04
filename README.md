@@ -15,21 +15,4 @@ Ja, die nintendo zone war da originale konzept dass ich auch im sub-reddit gepos
 <p>2a. Select während des startens gedrückt halten<br>2b. Sicherstellen dass "enable game patching" und "enable loading external firms and modules" aktiviert sind<br>2c. Start zum speichern drücken</p>
 
 # Fettes Dankeschön an das Aftendo-Team dass den kompletten Nintendo Anime Channel zerlegt haben!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 P.S. Zeo stinkt <3
