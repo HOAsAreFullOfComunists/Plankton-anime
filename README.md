@@ -6,7 +6,7 @@ Ja, die nintendo zone war da originale konzept dass ich auch auf der Reddit-Seit
 #### Du brauchst: 
 <p>einen gemoddeten 3DS/2DS (Hier steht wie das geht, super easy: https://3ds.hacks.guide/ )<br>Internet (duh)<br>und die dateien</p>
 
-#### Die schritte:
+#### Die schritte (nur biem ersten Mal notwendig):
 
 <p>1. Den "luma" Ordner extrahieren und in die SD-Karte packen<br>2. Select während des startens gedrückt halten<br>3. Sicherstellen dass "enable game patching" und "enable loading external firms and modules" aktiviert sind<br>4. Start zum speichern drücken<br>5. Den Anime Channel starten!</p>
 
